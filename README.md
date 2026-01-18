@@ -20,7 +20,7 @@ Setting up the app:
 5. Enter your user ID (Go into discord settings, scroll down to the Advanced tab, turn on developer mode, turn off settings, right click on your profile and click "Copy User ID")
 6. And then your done!
 
-After setting it up the first time it will store the token and User ID in the "pcinfosettings.txt" file
+After setting it up the first time it will store the token and User ID in the "pcinfosettings.txt" file. Upon boot it does have a bug where it tells you to reboot your computer as its been 3 days. This is a bug, after boot up it will work after three days are up.
 
 Adding it to the bootup:
 1. In the folder with the exe, right click and click "Create Shortcut"
