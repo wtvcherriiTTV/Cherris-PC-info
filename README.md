@@ -1,4 +1,4 @@
-# Cherri-s-PC-info
+# Cherris-PC-info
 
 # Getting Started:
 
